@@ -20,3 +20,7 @@ To run the code, execute the `Untitled.ipynb` file. This will open a Jupyter Not
 
 The Encoder-Decoder Model architecture was implemented using TensorFlow and Keras. The model was trained and evaluated on the news_summary dataset.
 
+## Author
+
+Bhavya Pandya
+
