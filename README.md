@@ -22,5 +22,5 @@ The Encoder-Decoder Model architecture was implemented using TensorFlow and Kera
 
 ## Author
 
-Bhavya Pandya
+
 
