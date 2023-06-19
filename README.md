@@ -1,4 +1,4 @@
-# Text Summarization using Encoder-Decoder Model with TensorFlow and Keras
+###  Text Summarization using Encoder-Decoder Model with TensorFlow & Keras
 
 This project implements a text summarization algorithm using an Encoder-Decoder Model with TensorFlow and Keras. The project uses the news_summary dataset for training and evaluation.
 
